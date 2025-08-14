@@ -1,0 +1,16 @@
+# Core dependencies
+PyQt6>=6.4.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+mysql-connector-python>=8.0.32
+
+# Optional dependencies for development/debugging
+Pillow>=9.0.0
+
+# For future ML model integration
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-qt>=4.0.0 
